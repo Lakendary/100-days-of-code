@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 15, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Tried to add a link to my blog on my portfolio site by adding a Font Awesome icon to the home page. However, I had to upgrade my Font Awesome and it broke the Font Awesome icons. Also added the Google Analytics tag to track users on my portfolio site, but that doesn't work either.
+**Thoughts:** Read the documentation first. I think I may have found a solution. I've thought about starting my portfolio website from scratch because it was a template I purchased, but I'm determined to fix it so that I can learn how to work with other developer's code.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [My Portfolio Website](https://jaderickerts.com)
+**Link to tweet:** [Day 1 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1173259242456911872?s=20)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: September 15, 2019
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Managed to add the new Font Awesome 5 font to my website. It works for the social icons and the services icons. However, the icons inside the buttons don't work. 
+**Thoughts:** Cannot stress how important it is to first read the documentation. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [My Portfolio Website](https://jaderickerts.com)
+**Link to tweet:** [Day 1 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1173259242456911872?s=20)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Jade Rickerts Portfolio Website](https://github.com/Lakendary/jaderickerts.com)
