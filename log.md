@@ -2,13 +2,13 @@
 
 ### Day 3: September 17, 2019
 
-**Today's Progress**: The Font Awesome 5 icons was not working on the other web pages on my website and I already merged to the master branch. Also, there is one web page that loads ways too long. I had to compress and resize the GIFs on that page.
+**Today's Progress**: The Font Awesome 5 icons was not working on the other web pages on my website and I already merged to the master branch. Also, there is one web page that loads ways too long. I had to compress and resize the GIFs on that page. The home link was scrolling to the top of the page instead of going back to the main web page (index). 
 
-**Thoughts:** Make sure the links work when you copy and paste them from another document. Resizing reduces the size more than plain old optimization. 
+**Thoughts:** Make sure the links work when you copy and paste them from another document. Resizing reduces the size more than plain old optimization. Check the classes in an element, it doesn't necessarily link to CSS, it could link to JavaScript too. 
 
 **Link to work:** [My Portfolio Website](https://jaderickerts.com)
 
-**Link to tweet:** [Day 2 - #100DaysOfCode]()
+**Link to tweet:** [Day 3 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1173893753205075968?s=20)
 
 ### Day 2: September 16, 2019
 
