@@ -8,7 +8,7 @@
 
 **Link to work:** [My Portfolio Website](https://jaderickerts.com)
 
-**Link to tweet:** [Day 3 - #100DaysOfCode]()
+**Link to tweet:** [Day 4 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1174295508132749312?s=20)
 
 ### Day 3: September 17, 2019
 
