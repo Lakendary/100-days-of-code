@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 4: September 18, 2019
+
+**Today's Progress**: I didn't do much today. I finished updating my portfolio website. I probably just have to upload my updated CV to finish it off. I'm getting ready for ASP.NET Core, so I spent all my time setting up my environment (my internet connection is very slow) and reading the ASP.NET Core docs.
+
+**Thoughts:** Didn't learn much. Just how to start a ASP.NET Core web server. 
+
+**Link to work:** [My Portfolio Website](https://jaderickerts.com)
+
+**Link to tweet:** [Day 3 - #100DaysOfCode]()
+
 ### Day 3: September 17, 2019
 
 **Today's Progress**: The Font Awesome 5 icons was not working on the other web pages on my website and I already merged to the master branch. Also, there is one web page that loads ways too long. I had to compress and resize the GIFs on that page. The home link was scrolling to the top of the page instead of going back to the main web page (index). 
