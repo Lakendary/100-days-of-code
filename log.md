@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: September 19, 2019
+
+**Today's Progress**: I did some planning for the Price Book Club Web application. I created an ER Diagram with Visual Paradigm.
+
+**Thoughts:** There is more to associate tables and the relationship between the entities. I keep thinking I've missed something but it looks good so far. 
+
+**Link to tweet:** [Day 5 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1174784393711407105?s=20)
+
+
 ### Day 4: September 18, 2019
 
 **Today's Progress**: I didn't do much today. I finished updating my portfolio website. I probably just have to upload my updated CV to finish it off. I'm getting ready for ASP.NET Core, so I spent all my time setting up my environment (my internet connection is very slow) and reading the ASP.NET Core docs.
