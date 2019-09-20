@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 6: September 20, 2019
+
+**Today's Progress**: I couldn't do some coding in the morning because I had to go to work early and its Friday but I managed to get some coding done. Even on a Friday night. I started on a ASP.NET Core tutorial to try to understand how to build a basic CRUD app before I start with the Price Book Club. 
+
+**Thoughts:** Try to get the coding done early in the morning because it feels like a burden later the evening. 
+
+**Link to work:** [Razor Pages Movie](https://github.com/Lakendary/RazorPagesMovie)
 
 ### Day 5: September 19, 2019
 
