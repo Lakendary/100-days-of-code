@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 7: September 21, 2019
+
+**Today's Progress**: I had more struggles with Razor Pages Movie project I found on the Microsoft website. The code generator doesn't create the scaffholding required to build the razor CRUD pages for the Movie class. I tried updating the packages installed and check the console log but I couldn't figure it out. Googling and the documentation didn't get my any further. 
+
+**Thoughts:** Having the right versions of the packages included in your project is absolutely crucial. 
+
+**Link to work:** [Razor Pages Movie](https://github.com/Lakendary/RazorPagesMovie)
+
+**Link to tweet:** [Day 7 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1175474636982816768?s=20)
+
 ### Day 6: September 20, 2019
 
 **Today's Progress**: I couldn't do some coding in the morning because I had to go to work early and its Friday but I managed to get some coding done. Even on a Friday night. I started on a ASP.NET Core tutorial to try to understand how to build a basic CRUD app before I start with the Price Book Club. 
@@ -7,6 +18,8 @@
 **Thoughts:** Try to get the coding done early in the morning because it feels like a burden later the evening. 
 
 **Link to work:** [Razor Pages Movie](https://github.com/Lakendary/RazorPagesMovie)
+
+**Link to tweet:** [Day 6 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1175157867416080384?s=20)
 
 ### Day 5: September 19, 2019
 
