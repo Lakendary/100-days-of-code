@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 15 September 29, 2019
+
+**Today's Progress**: I didn't get to do much because I'm working on my work laptop and the environment isn't setup for ASP.NET Core yet. Downloads taking a bulk of my time. I also tried to finish up my blog post that was actually supposed to go out a week ago but I couldn't get to it.
+
+**Thoughts:** Really try to avoid working at night because you can't focus well. 
+
+**Link to work:** [PriceBook Club](https://github.com/Lakendary/pricebookclub)
+
+**Link to tweet:** [Day 15 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1178430091535228929?s=20)
+
 ### Day 14 September 28, 2019
 
 **Today's Progress**: I managed to add a view and a model. The model doesn't work either. I've also added a link to category index on the navbar.
