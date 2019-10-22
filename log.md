@@ -1,4 +1,14 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Log - Round 1
+
+### Day 2: October 22, 2019
+
+**Today's Progress**: I didn't do much coding. Just learned about In Process and Out of Process hosting. 
+
+**Thoughts:** I couldn't get the SDK 2.2 to work. As soon as I ran my project, I got an error. I started a project with 2.1 anyway now I can't get In Process hosting to work, in particular IIS Express. I am not sure with it has anything to do with the fact that I am using SDK 2.1. I will stick to it because its a LTS version, whereas SDK 2.2 is no longer supported.
+
+**Link to tweet:** [Day 2 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1186492661374603264?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
 
 ### Day 1: October 21, 2019
 
