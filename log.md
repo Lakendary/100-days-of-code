@@ -1,10 +1,20 @@
 # 100 Days Of Code Log - Round 1
 
+### Day 5: October 25, 2019
+
+**Today's Progress:** I learned about environment variables like development, staging, production and custom environments and how to set these environments. I learned about the basics of the MVC design pattern. I can also setup Visual Studio to use MVC in the request pipeline.
+
+**Thoughts:** I like that you can set the environment variable on your operating system. So you can have a PC dedicated for developing and another for staging/production. MVC was new to me but how to add it the configuration services was new. I can't wait to get started with the coding part though. This is starting to drag, but I know this is essential later on when I need to debug.
+
+**Link to tweet:** [Day 5 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1187578718409166848?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 4: October 24, 2019
 
 **Today's Progress:** I learned about the request pipeline and how to log messages which can be viewed in output. I also learned how to add static files and the importance of the order of the middleware for serving static files and the default html file. Finally I learned about the developer exception page and how it displays exceptions.
 
-**Thoughts:**: Not sure how I will use this in my web projects yet but its good to know if I ever need to debug exceptions and the middleware. I hope this all becomes clearer later on when I get my hands dirty with MVC.
+**Thoughts:** Not sure how I will use this in my web projects yet but its good to know if I ever need to debug exceptions and the middleware. I hope this all becomes clearer later on when I get my hands dirty with MVC.
 
 **Link to tweet:** [Day 4 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1187217296391102464?s=20)
 
