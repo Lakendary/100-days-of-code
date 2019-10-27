@@ -1,5 +1,29 @@
 # 100 Days Of Code Log - Round 1
 
+### Day 7: October 27, 2019
+
+**Today's Progress:** I learned about setting a custom view instead of running the view with the same name as the controller method. I also learned the difference between absolute paths and relative paths and that you don't need to specify the extension on the relative path.
+
+I learned how to pass data to a view with ViewData and ViewBag and also why its bad to do it this way as they are loosely typed views. Using strongly typed view by specifying the model type in the view using @model directive.
+
+**Thoughts:** Its great to have options in development but in the beginning I prefer to learn the industry standard and then maybe learn the others when I need them. However, its good that I know of all three ways on how to pass data to a view. 
+
+**Link to tweet:** [Day 7 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1188486728136515585?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 6: October 26, 2019
+
+**Today's Progress:** I learned how to create a new model and its repository interface. Also created a mock class to create mock data for the model and why its done this way. It helps with dependency injection, which has the benefit loose coupling and easy to unit test.
+
+I learned about controllers and how to return JsonResults. Created a view in the right folder structure. 
+
+**Thoughts:** My knowledge on interfaces are sketchy so I'm hoping that it would become clearer later how to use these repository interfaces. 
+
+**Link to tweet:** [Day 6 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1188119215577935873?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 5: October 25, 2019
 
 **Today's Progress:** I learned about environment variables like development, staging, production and custom environments and how to set these environments. I learned about the basics of the MVC design pattern. I can also setup Visual Studio to use MVC in the request pipeline.
@@ -47,4 +71,3 @@
 **Thoughts:** I've learned how to remove origin from a git repo and add a new one. I've learned the differences between the different types of web applications you can create in Visual Studio. Also learned the elements of the ASP.NET Core project file. 
 
 **Link to tweet:** [Day 1 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1186130141191258112?s=20)
-
