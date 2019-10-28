@@ -1,5 +1,15 @@
 # 100 Days Of Code Log - Round 1
 
+### Day 8: October 28, 2019
+
+**Today's Progress:** I learned about a view model which is created when the model doesn't have all the information a view needs. I learned how to use an enumerable and passing a list of objects to a view and display it. I learned about layout views to save time in writing the html boilerplate for each webpage. 
+
+**Thoughts:** In the past I would update my model so that when I passed the data to the UI, it would have all the information required. I like the ViewModel approach. It makes sure that all the information is there without messing with your model.
+
+**Link to tweet:** [Day 8 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1188665438579900416?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 7: October 27, 2019
 
 **Today's Progress:** I learned about setting a custom view instead of running the view with the same name as the controller method. I also learned the difference between absolute paths and relative paths and that you don't need to specify the extension on the relative path.
