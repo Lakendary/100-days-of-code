@@ -1,5 +1,23 @@
 # 100 Days Of Code Log - Round 1
 
+### Day 10: October 30, 2019
+
+**Today's Progress:** I learned about rendering sections in layouts for all views or how to specify a section for only some views to use. Learned about the ViewStart razor page view. This file indicates which layout to use depending on where this file is placed, which is typically in the Views folder. ViewStart files help reduce code redundancy and improves maintainability.
+
+**Thoughts:** Sections and ViewStarts help to customize how each web page should be laid out. Its easy to repeat elements that need to be on every web page and its also to set each page or a group of pagese to be different.
+
+**Link to tweet:** [Day 10 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1189392918479605761?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 9: October 29, 2019
+
+**Today's Progress:** Today I didn't follow the tutorial but did some maintenance on a tool I for work instead. I didn't learn anything new during this exercise. I did listen to a YouTube video on my way to work about 5 programming bad habits to avoid. 
+
+**Thoughts:** Usually there is something new to learn, even when debugging or maintaining an application but I didn't make much progress. I couldn't test what I needed to test. 
+
+**Link to tweet:** [Day 9 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1189025581414998016?s=20)
+
 ### Day 8: October 28, 2019
 
 **Today's Progress:** I learned about a view model which is created when the model doesn't have all the information a view needs. I learned how to use an enumerable and passing a list of objects to a view and display it. I learned about layout views to save time in writing the html boilerplate for each webpage. 
