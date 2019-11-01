@@ -1,5 +1,23 @@
 # 100 Days Of Code Log - Round 1
 
+### Day 12: November 1, 2019
+
+**Today's Progress:** I learned about ViewImports and how it helps with using common namespaces so that you don't have to keep repeating it in the views. I also learned about conventional routing and how to setup your own routes and not just the default MVC routes. And I learned about attribute routing, which is a bit more flexible than conventional routing.
+
+**Thoughts:** Its definitely more difficult to code at night. I'm very tired and I was staring at the clock a lot. Try to get the coding done early. But tomorrow morning is another tough day. Hopefully I don't skip another day.
+
+**Link to tweet:** [Day 12 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1190341955487748096?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 11: October 31, 2019
+
+**Today's Progress:** I was up late last night watching the United vs Chelsea game and couldn't bring myself to get out of bed at 5 AM this morning. I tried to get some sort of coding done but didn't really get a gap during the day. 
+
+**Thoughts:** If it doesn't happen early the morning, it probably won't happen the rest of the day.
+
+**Link to tweet:** [Day 11 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1189783368663257093?s=20)
+
 ### Day 10: October 30, 2019
 
 **Today's Progress:** I learned about rendering sections in layouts for all views or how to specify a section for only some views to use. Learned about the ViewStart razor page view. This file indicates which layout to use depending on where this file is placed, which is typically in the Views folder. ViewStart files help reduce code redundancy and improves maintainability.
