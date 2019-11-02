@@ -1,5 +1,27 @@
 # 100 Days Of Code Log - Round 1
 
+### Day 13: November 2, 2019
+
+**Today's Progress:** I learned about Library Manager, a client side library acquisition tool. I add bootstrap and jquery using this tool. I learned how to update and delete libraries added with LibMan. 
+
+I learned how to add bootstrap and reference it to start using it in my projects. I also learned how to use tag helpers to generate links. 
+
+**Thoughts:** Tag helpers seem like a lot of work but I suspect that the benefit is that maintenance of your code would be easier with these. I'll find out tomorrow what the benefits are. I liked using LibMan. Its simpler than using Nuget Package Manager or NPM for example. 
+
+**Link to tweet:** [Day 13 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1190705253471203329?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 12: November 1, 2019
+
+**Today's Progress:** I learned about ViewImports and how it helps with using common namespaces so that you don't have to keep repeating it in the views. I also learned about conventional routing and how to setup your own routes and not just the default MVC routes. And I learned about attribute routing, which is a bit more flexible than conventional routing.
+
+**Thoughts:** Its definitely more difficult to code at night. I'm very tired and I was staring at the clock a lot. Try to get the coding done early. But tomorrow morning is another tough day. Hopefully I don't skip another day.
+
+**Link to tweet:** [Day 12 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1190341955487748096?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 12: November 1, 2019
 
 **Today's Progress:** I learned about ViewImports and how it helps with using common namespaces so that you don't have to keep repeating it in the views. I also learned about conventional routing and how to setup your own routes and not just the default MVC routes. And I learned about attribute routing, which is a bit more flexible than conventional routing.
