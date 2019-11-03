@@ -1,5 +1,15 @@
 # 100 Days Of Code Log - Round 1
 
+### Day 14: November 3, 2019
+
+**Today's Progress:** I learned why we use tag helpers to generate links. Basically, if you update your route, you are safe if you used tag helpers. I learned about image tag helpers which helps with caching images and only downloads new images if its changed on the web server, otherwise it uses the image in the cache. 
+
+I learned about environment tag helpers which helps to load different files when in different environments, for example loading the full bootstrap stylesheet when in development but loading the minified version when in staging or production. 
+
+**Link to tweet:** [Day 14 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1190996696488140800?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 13: November 2, 2019
 
 **Today's Progress:** I learned about Library Manager, a client side library acquisition tool. I add bootstrap and jquery using this tool. I learned how to update and delete libraries added with LibMan. 
