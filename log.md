@@ -1,10 +1,24 @@
-# 100 Days Of Code Log - Round 1
+# 100 Days Of Code Log
+
+## Round 1
+
+### Day 15: November 4, 2019
+
+**Today's Progress:** I learned how to insert a bootstrap navigation menu. I also learned how to insert a collapsible menu for smaller screens. I also learned how to add a form to view.
+
+**Thoughts:** Lots of typing today and not too much learned. I definitely need to take a course in bootstrap after I'm done with this tutorial to brush up on my front-end skills.
+
+**Link to tweet:** [Day 15 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1191206081978089477?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
 
 ### Day 14: November 3, 2019
 
-**Today's Progress:** I learned why we use tag helpers to generate links. Basically, if you update your route, you are safe if you used tag helpers. I learned about image tag helpers which helps with caching images and only downloads new images if its changed on the web server, otherwise it uses the image in the cache. 
+**Today's Progress:** I learned why we use tag helpers to generate links. Basically, if you update your route, you are safe if you used tag helpers. I learned about image tag helpers which helps with caching images and only downloads new images if its changed on the web server, otherwise it uses the image in the cache.
 
-I learned about environment tag helpers which helps to load different files when in different environments, for example loading the full bootstrap stylesheet when in development but loading the minified version when in staging or production. 
+I learned about environment tag helpers which helps to load different files when in different environments, for example loading the full bootstrap stylesheet when in development but loading the minified version when in staging or production.
+
+**Thoughts:** Even though its a lot more work in the beginning to setup tag helpers, it will save you a lot more time in the future when you have to maintain the code and if the routing changes.
 
 **Link to tweet:** [Day 14 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1190996696488140800?s=20)
 
@@ -12,11 +26,11 @@ I learned about environment tag helpers which helps to load different files when
 
 ### Day 13: November 2, 2019
 
-**Today's Progress:** I learned about Library Manager, a client side library acquisition tool. I add bootstrap and jquery using this tool. I learned how to update and delete libraries added with LibMan. 
+**Today's Progress:** I learned about Library Manager, a client side library acquisition tool. I add bootstrap and jquery using this tool. I learned how to update and delete libraries added with LibMan.
 
-I learned how to add bootstrap and reference it to start using it in my projects. I also learned how to use tag helpers to generate links. 
+I learned how to add bootstrap and reference it to start using it in my projects. I also learned how to use tag helpers to generate links.
 
-**Thoughts:** Tag helpers seem like a lot of work but I suspect that the benefit is that maintenance of your code would be easier with these. I'll find out tomorrow what the benefits are. I liked using LibMan. Its simpler than using Nuget Package Manager or NPM for example. 
+**Thoughts:** Tag helpers seem like a lot of work but I suspect that the benefit is that maintenance of your code would be easier with these. I'll find out tomorrow what the benefits are. I liked using LibMan. Its simpler than using Nuget Package Manager or NPM for example.
 
 **Link to tweet:** [Day 13 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1190705253471203329?s=20)
 
@@ -32,19 +46,9 @@ I learned how to add bootstrap and reference it to start using it in my projects
 
 **Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
 
-### Day 12: November 1, 2019
-
-**Today's Progress:** I learned about ViewImports and how it helps with using common namespaces so that you don't have to keep repeating it in the views. I also learned about conventional routing and how to setup your own routes and not just the default MVC routes. And I learned about attribute routing, which is a bit more flexible than conventional routing.
-
-**Thoughts:** Its definitely more difficult to code at night. I'm very tired and I was staring at the clock a lot. Try to get the coding done early. But tomorrow morning is another tough day. Hopefully I don't skip another day.
-
-**Link to tweet:** [Day 12 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1190341955487748096?s=20)
-
-**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
-
 ### Day 11: October 31, 2019
 
-**Today's Progress:** I was up late last night watching the United vs Chelsea game and couldn't bring myself to get out of bed at 5 AM this morning. I tried to get some sort of coding done but didn't really get a gap during the day. 
+**Today's Progress:** I was up late last night watching the United vs Chelsea game and couldn't bring myself to get out of bed at 5 AM this morning. I tried to get some sort of coding done but didn't really get a gap during the day.
 
 **Thoughts:** If it doesn't happen early the morning, it probably won't happen the rest of the day.
 
@@ -54,7 +58,7 @@ I learned how to add bootstrap and reference it to start using it in my projects
 
 **Today's Progress:** I learned about rendering sections in layouts for all views or how to specify a section for only some views to use. Learned about the ViewStart razor page view. This file indicates which layout to use depending on where this file is placed, which is typically in the Views folder. ViewStart files help reduce code redundancy and improves maintainability.
 
-**Thoughts:** Sections and ViewStarts help to customize how each web page should be laid out. Its easy to repeat elements that need to be on every web page and its also to set each page or a group of pagese to be different.
+**Thoughts:** Sections and ViewStarts help to customize how each web page should be laid out. Its easy to repeat elements that need to be on every web page and its also to set each page or a group of pages to be different.
 
 **Link to tweet:** [Day 10 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1189392918479605761?s=20)
 
@@ -62,15 +66,15 @@ I learned how to add bootstrap and reference it to start using it in my projects
 
 ### Day 9: October 29, 2019
 
-**Today's Progress:** Today I didn't follow the tutorial but did some maintenance on a tool I for work instead. I didn't learn anything new during this exercise. I did listen to a YouTube video on my way to work about 5 programming bad habits to avoid. 
+**Today's Progress:** Today I didn't follow the tutorial but did some maintenance on a tool I for work instead. I didn't learn anything new during this exercise. I did listen to a YouTube video on my way to work about 5 programming bad habits to avoid.
 
-**Thoughts:** Usually there is something new to learn, even when debugging or maintaining an application but I didn't make much progress. I couldn't test what I needed to test. 
+**Thoughts:** Usually there is something new to learn, even when debugging or maintaining an application but I didn't make much progress. I couldn't test what I needed to test.
 
 **Link to tweet:** [Day 9 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1189025581414998016?s=20)
 
 ### Day 8: October 28, 2019
 
-**Today's Progress:** I learned about a view model which is created when the model doesn't have all the information a view needs. I learned how to use an enumerable and passing a list of objects to a view and display it. I learned about layout views to save time in writing the html boilerplate for each webpage. 
+**Today's Progress:** I learned about a view model which is created when the model doesn't have all the information a view needs. I learned how to use an enumerable and passing a list of objects to a view and display it. I learned about layout views to save time in writing the html boilerplate for each webpage.
 
 **Thoughts:** In the past I would update my model so that when I passed the data to the UI, it would have all the information required. I like the ViewModel approach. It makes sure that all the information is there without messing with your model.
 
@@ -84,7 +88,7 @@ I learned how to add bootstrap and reference it to start using it in my projects
 
 I learned how to pass data to a view with ViewData and ViewBag and also why its bad to do it this way as they are loosely typed views. Using strongly typed view by specifying the model type in the view using @model directive.
 
-**Thoughts:** Its great to have options in development but in the beginning I prefer to learn the industry standard and then maybe learn the others when I need them. However, its good that I know of all three ways on how to pass data to a view. 
+**Thoughts:** Its great to have options in development but in the beginning I prefer to learn the industry standard and then maybe learn the others when I need them. However, its good that I know of all three ways on how to pass data to a view.
 
 **Link to tweet:** [Day 7 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1188486728136515585?s=20)
 
@@ -94,9 +98,9 @@ I learned how to pass data to a view with ViewData and ViewBag and also why its 
 
 **Today's Progress:** I learned how to create a new model and its repository interface. Also created a mock class to create mock data for the model and why its done this way. It helps with dependency injection, which has the benefit loose coupling and easy to unit test.
 
-I learned about controllers and how to return JsonResults. Created a view in the right folder structure. 
+I learned about controllers and how to return JsonResults. Created a view in the right folder structure.
 
-**Thoughts:** My knowledge on interfaces are sketchy so I'm hoping that it would become clearer later how to use these repository interfaces. 
+**Thoughts:** My knowledge on interfaces are sketchy so I'm hoping that it would become clearer later how to use these repository interfaces.
 
 **Link to tweet:** [Day 6 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1188119215577935873?s=20)
 
@@ -126,7 +130,7 @@ I learned about controllers and how to return JsonResults. Created a view in the
 
 **Today's Progress:** I learned about launch settings under properties and appsettings file. I had to create the appsettings file manually but it still managed to work as expected. Finally, I learned about middleware.
 
-**Thoughts:** Its tough when you are following a tutorial and things aren't exactly the same. Its a trial and error process. In the end you hope that the differences you see don't have a major impact later down the line. 
+**Thoughts:** Its tough when you are following a tutorial and things aren't exactly the same. Its a trial and error process. In the end you hope that the differences you see don't have a major impact later down the line.
 
 **Link to tweet:** [Day 3 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1186856600528666625?s=20)
 
@@ -134,7 +138,7 @@ I learned about controllers and how to return JsonResults. Created a view in the
 
 ### Day 2: October 22, 2019
 
-**Today's Progress:** I didn't do much coding. Just learned about In Process and Out of Process hosting. 
+**Today's Progress:** I didn't do much coding. Just learned about In Process and Out of Process hosting.
 
 **Thoughts:** I couldn't get the SDK 2.2 to work. As soon as I ran my project, I got an error. I started a project with 2.1 anyway now I can't get In Process hosting to work, in particular IIS Express. I am not sure with it has anything to do with the fact that I am using SDK 2.1. I will stick to it because its a LTS version, whereas SDK 2.2 is no longer supported.
 
@@ -146,6 +150,6 @@ I learned about controllers and how to return JsonResults. Created a view in the
 
 **Today's Progress:** Setup ASP.NET environment. Temporarily used ASP.NET SDK 2.1 until I download SDK 2.2 to follow along with the tutorial. No git file to upload just yet.
 
-**Thoughts:** I've learned how to remove origin from a git repo and add a new one. I've learned the differences between the different types of web applications you can create in Visual Studio. Also learned the elements of the ASP.NET Core project file. 
+**Thoughts:** I've learned how to remove origin from a git repo and add a new one. I've learned the differences between the different types of web applications you can create in Visual Studio. Also learned the elements of the ASP.NET Core project file.
 
 **Link to tweet:** [Day 1 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1186130141191258112?s=20)
