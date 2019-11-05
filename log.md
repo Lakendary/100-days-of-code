@@ -2,6 +2,16 @@
 
 ## Round 1
 
+### Day 16: November 5, 2019
+
+**Today's Progress:** Today I learned about model binding. I used this to bind the name properties of a form to the properties of the object/class I was submitting the form to. I learned form validation attributes. I also learned how to validate a select list enums. The required validation is built in and you have to use a question mark (?) to make it return a nullable in order to make it optional. I have to combine this with the required validation anyway in order to return the correct validation message.
+
+**Thoughts:** Its important that the name of each input field in a create form matches the property name of the class. ASP.NET makes it easy to use data validation because most of the functionality is already built in. You just specify it in your model and display the error messages in your view. The enum required validation is a bit quirky. I'll have to remember how it works in the future because I won't get the error message I want to see.
+
+**Link to tweet:** [Day 16 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1191587207053746178?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 15: November 4, 2019
 
 **Today's Progress:** I learned how to insert a bootstrap navigation menu. I also learned how to insert a collapsible menu for smaller screens. I also learned how to add a form to view.
