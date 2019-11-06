@@ -2,6 +2,16 @@
 
 ## Round 1
 
+### Day 17: November 6, 2019
+
+**Today's Progress:** I learned how to serialize and deserialize the info in an XML file. I learned how to reference a project static file in your code. I learned how to include the XML file in my project and copy the content (only when newer) to the debug file. I learned how to reference this file in my code.
+
+**Thoughts:** I cheated a little today, but its okay because development isn't part of my job title. I didn't get up to code this morning but I did some coding for work. 
+
+**Link to tweet:** [Day 17 - #100DaysOfCode]()
+
+**Link to work:** [Second Count](https://github.com/Lakendary/SecondCount)
+
 ### Day 16: November 5, 2019
 
 **Today's Progress:** Today I learned about model binding. I used this to bind the name properties of a form to the properties of the object/class I was submitting the form to. I learned form validation attributes. I also learned how to validate a select list enums. The required validation is built in and you have to use a question mark (?) to make it return a nullable in order to make it optional. I have to combine this with the required validation anyway in order to return the correct validation message.
