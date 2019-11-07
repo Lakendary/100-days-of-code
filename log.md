@@ -2,15 +2,26 @@
 
 ## Round 1
 
+### Day 18: November 7, 2019
+
+**Today's Progress:** I learned about the differences between a singleton, scoped and transient service type. I learned about Entity Framework Core and how to install the package to use for a selected project depending on which database type you want to use. I learned about DbContext class and how to implement with DbContext options.
+
+**Thoughts:** The service types are still a bit iffy to me. I am not sure how I will use it and which service type is best. For now I will stick to singleton and hope for the best. The DbContext class is also a concept that I don't fully grasp as yet. I hope its one of those things you can set and forget and it should just work all the time.
+
+**Link to tweet:** [Day 18 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1192292441107443712?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 17: November 6, 2019
 
-**Today's Progress:** I learned how to serialize and deserialize the info in an XML file. I learned how to reference a project static file in your code. I learned how to include the XML file in my project and copy the content (only when newer) to the debug file. I learned how to reference this file in my code.
+**Today's Progress:** I learned how to serialize and de-serialize the info in an XML file. I learned how to reference a project static file in your code. I learned how to include the XML file in my project and copy the content (only when newer) to the debug file. I learned how to reference this file in my code.
 
-**Thoughts:** I cheated a little today, but its okay because development isn't part of my job title. I didn't get up to code this morning but I did some coding for work. 
+**Thoughts:** I cheated a little today, but its okay because development isn't part of my job title. I didn't get up to code this morning but I did some coding for work.
 
-**Link to tweet:** [Day 17 - #100DaysOfCode]()
+**Link to tweet:** [Day 18 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1192293033351536640?s=20)
 
 **Link to work:** [Second Count](https://github.com/Lakendary/SecondCount)
+
 
 ### Day 16: November 5, 2019
 
