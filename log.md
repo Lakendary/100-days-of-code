@@ -28,7 +28,7 @@
 
 **Thoughts:** I cheated a little today, but its okay because development isn't part of my job title. I didn't get up to code this morning but I did some coding for work.
 
-**Link to tweet:** [Day 18 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1192293033351536640?s=20)
+**Link to tweet:** [Day 17 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1192293033351536640?s=20)
 
 **Link to work:** [Second Count](https://github.com/Lakendary/SecondCount)
 
