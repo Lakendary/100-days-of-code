@@ -2,6 +2,16 @@
 
 ## Round 1
 
+### Day 19: November 8, 2019
+
+**Today's Progress:** I learned how to add the application context to the configuration services and how to link the database connection string from the application settings to the configuration services. I learned about the benefits of using the repository design pattern. It makes your code easier to maintain, reuse, easy to test and its loosely coupled. I learned how to add another class to the initial repository interface.
+
+**Thoughts:** The repository pattern is pretty cool. I like how you can just play and play any data source and only change one line of code to use the newly created data source.
+
+**Link to tweet:** [Day 19 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1192654631136104448?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 18: November 7, 2019
 
 **Today's Progress:** I learned about the differences between a singleton, scoped and transient service type. I learned about Entity Framework Core and how to install the package to use for a selected project depending on which database type you want to use. I learned about DbContext class and how to implement with DbContext options.
@@ -21,7 +31,6 @@
 **Link to tweet:** [Day 18 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1192293033351536640?s=20)
 
 **Link to work:** [Second Count](https://github.com/Lakendary/SecondCount)
-
 
 ### Day 16: November 5, 2019
 
