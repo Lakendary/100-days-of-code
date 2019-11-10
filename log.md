@@ -2,6 +2,18 @@
 
 ## Round 1
 
+### Day 20: November 9, 2019
+
+**Today's Progress:** I learned about migration and how to update a database with a migration file. I learned how to seed the database with data by using the model builder. I also learned how to clean up the database context class by using an extensions class for model builder.
+
+**Thoughts:** Unfortunately my update-database command didn't work. I encountered this bug before. I had to manually create the database and then only update the database with the migration file.
+
+I like the extensions class. Pretty nifty trick to keep your classes from getting too cluttered.
+
+**Link to tweet:** [Day 20 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1193259654266204161?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 19: November 8, 2019
 
 **Today's Progress:** I learned how to add the application context to the configuration services and how to link the database connection string from the application settings to the configuration services. I learned about the benefits of using the repository design pattern. It makes your code easier to maintain, reuse, easy to test and its loosely coupled. I learned how to add another class to the initial repository interface.
