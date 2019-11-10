@@ -2,6 +2,16 @@
 
 ## Round 1
 
+### Day 21: November 10, 2019
+
+**Today's Progress:** I learned how to keep the domain models and the database schema in sync with migrations. I learned how to undo migration before the database was updated and also how to undo changes after the database was updated. I learned how to upload an image using a form and how to display that file.
+
+**Thoughts:** There is a migration history table in the database that EF Core creates to help with undoing changes to the database. My file isn't uploading because I used a PNG. It only works with JPG. My CSS isn't working out.
+
+**Link to tweet:** [Day 21 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1193514081354952704?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 20: November 9, 2019
 
 **Today's Progress:** I learned about migration and how to update a database with a migration file. I learned how to seed the database with data by using the model builder. I also learned how to clean up the database context class by using an extensions class for model builder.
