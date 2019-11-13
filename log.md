@@ -2,6 +2,30 @@
 
 ## Round 1
 
+### Day 23: November 12, 2019
+
+**Today's Progress:** I learned how to upload multiple file. I did some coding at work and learned how to setup my database connection string without a password especially with XAMPP.
+
+**Thoughts:** I did some more coding at work, which should make up for yesterday's tardiness.
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 22: November 11, 2019
+
+**Today's Progress:** I slept in thinking I will work on some code at work but then something else came up instead. No coding done.
+
+**Thoughts:** Some days just don't work out like they are supposed to.
+
+### Day 21: November 10, 2019
+
+**Today's Progress:** I learned how to keep the domain models and the database schema in sync with migrations. I learned how to undo migration before the database was updated and also how to undo changes after the database was updated. I learned how to upload an image using a form and how to display that file.
+
+**Thoughts:** There is a migration history table in the database that EF Core creates to help with undoing changes to the database. My file isn't uploading because I used a PNG. It only works with JPG. My CSS isn't working out.
+
+**Link to tweet:** [Day 21 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1193514081354952704?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 21: November 10, 2019
 
 **Today's Progress:** I learned how to keep the domain models and the database schema in sync with migrations. I learned how to undo migration before the database was updated and also how to undo changes after the database was updated. I learned how to upload an image using a form and how to display that file.
