@@ -2,6 +2,30 @@
 
 ## Round 1
 
+### Day 30: November 19, 2019
+
+**Today's Progress:** I learned how to create the edit method to post updates. I also learned how to delete an existing file that's no longer used and why its important to close/dispose the file stream method.
+
+**Thoughts:** Slow start but I am at least moving and not standing still.
+
+**Link to tweet:** [Day 29 - #100DaysOfCode]()
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 29: November 18, 2019
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+### Day 25 to 28: November 17, 2019
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to tweet:** [Day 22 to 28 - #100DaysOfCode]()
+
 ### Day 24: November 13, 2019
 
 **Today's Progress:** I learned how to create an edit view model and an edit view and how to populate existing model data to the view's form.
