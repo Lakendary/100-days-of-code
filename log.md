@@ -2,29 +2,55 @@
 
 ## Round 1
 
+### Day 31: November 20, 2019
+
+**Today's Progress:** I learned how to show a custom error page when a user navigates to a resource with a specified ID that does not exist.
+
+**Thoughts:** Slow start but I am at least moving and not standing still.
+
+**Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1197000386340687872?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 30: November 19, 2019
 
 **Today's Progress:** I learned how to create the edit method to post updates. I also learned how to delete an existing file that's no longer used and why its important to close/dispose the file stream method.
 
 **Thoughts:** Slow start but I am at least moving and not standing still.
 
-**Link to tweet:** [Day 29 - #100DaysOfCode]()
-
 **Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
 
 ### Day 29: November 18, 2019
 
-**Today's Progress:** 
+**Today's Progress:** I learned that my application has more bugs that I need to fix. I learned that scheduling time to test your new features is critical and fixing old bugs first before implementing new features is even more critical.
 
-**Thoughts:** 
+**Thoughts:** Time management is key. And communicating is key too. You cannot anticipate how long you'll actually be spending on fixing errors.
 
-### Day 25 to 28: November 17, 2019
+**Link to work:** [JRS Document Storage](https://www.jaderickerts.com/projects/jrs-document-storage.html)
 
-**Today's Progress:** 
+### Day 27 to 28: November 16 to 17, 2019
 
-**Thoughts:** 
+**Today's Progress:** I didn't do any coding over the weekend.
 
-**Link to tweet:** [Day 22 to 28 - #100DaysOfCode]()
+**Thoughts:** Because I've spent so much time coding during the week, I decided that I'm going to spend some time with my family to help with stress that coding during the week has caused.
+
+**Link to tweet:** [Day 22 to 28 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1196506661256605704?s=20)
+
+### Day 26: November 15, 2019
+
+**Today's Progress:** I made notes on what I've learned in ASP.NET Core so far.
+
+**Thoughts:** It helps to have some notes at hand for future reference. And looking at the code again helps to solidify what I've learned up to now.
+
+**Link to work:** [ASP.NET Notes](https://github.com/Lakendary/100-days-of-code/blob/master/ASP.Net%20Notes.md)
+
+### Day 25: November 14, 2019
+
+**Today's Progress:** I added some features to the JRS Document Storage application. 
+
+**Thoughts:** Adding new features to an existing project is the nice and easy bit. What comes next is testing and fixing bugs, which is not fun at all.
+
+**Link to work:** [JRS Document Storage](https://www.jaderickerts.com/projects/jrs-document-storage.html)
 
 ### Day 24: November 13, 2019
 
