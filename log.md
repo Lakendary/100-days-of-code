@@ -2,6 +2,16 @@
 
 ## Round 1
 
+### Day 32: November 21, 2019
+
+**Today's Progress:** Today I continued my freecodecamp.org course. I learned about the transform property in CSS, namely scaling, rotating and skewing elements. 
+
+**Thoughts:** Slow start but I am at least moving and not standing still.
+
+**Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1197000386340687872?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 31: November 20, 2019
 
 **Today's Progress:** I learned how to show a custom error page when a user navigates to a resource with a specified ID that does not exist.
