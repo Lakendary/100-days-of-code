@@ -2,15 +2,39 @@
 
 ## Round 1
 
-### Day 32: November 21, 2019
+### Day 36: November 25, 2019
 
-**Today's Progress:** Today I continued my freecodecamp.org course. I learned about the transform property in CSS, namely scaling, rotating and skewing elements. 
+**Today's Progress:** I learned about global exception handling. I learned how to setup the middleware to the request processing pipeline, implement the error controller and create the view for the errors.
 
-**Thoughts:** Slow start but I am at least moving and not standing still.
+**Thoughts:** Recently I've learned how important it is to log errors and review them on a regular basis. It's great that I learn how to log these errors properly.
+
+**Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1198815864293904385?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 34 to 35: November 23 to 24, 2019
+
+**Today's Progress:** No progess at all. My baby boy is going to be baptised on Sunday. 
+
+**Thoughts:** Coding needs to take a break sometimes. I find it hard to get time on the weekends to code. I feel like this is the best time to get some coding done but at the same time I also think that I need to unwind on the weekends to prevent burnout.
+
+**Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1198814564512649217?s=20)
+
+### Day 33: November 22, 2019
+
+**Today's Progress:** I learned about status code pages and how to set them up. I learned how to create my own error handling page to handle 404 errors.
+
+**Thoughts:** I only know of the 404 exception status, I wonder how many there are and how many are common enough that you need to handle them.
 
 **Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1197000386340687872?s=20)
 
 **Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 32: November 21, 2019
+
+**Today's Progress:** Today I continued my freecodecamp.org course. I learned about the transform property in CSS, namely scaling, rotating and skewing elements. 
+
+**Thoughts:** CSS is a lot more complicated than I anticipated.
 
 ### Day 31: November 20, 2019
 
