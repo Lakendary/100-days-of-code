@@ -14,11 +14,11 @@
 
 ### Day 38: November 27, 2019
 
-**Today's Progress:** 
+**Today's Progress:** I learned about the keyframes rules on freecodecamp.org, transitioning from one color to the next and moving it with the left and top offset CSS properties. I learned about animation-name, animation-duration and animation-iteration-count. 
 
-**Thoughts:** 
+**Thoughts:** This looks very cool when I'm told what to do, but I doubt I am creative enough to come up with my own animations. This is some serious stuff.
 
-**Link to work:** 
+**Link to work:** [Free Code Camp Profile](https://www.freecodecamp.org/jade-rickerts)
 
 ### Day 37: November 26, 2019
 
