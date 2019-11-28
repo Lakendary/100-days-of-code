@@ -2,13 +2,39 @@
 
 ## Round 1
 
+### Day 39: November 28, 2019
+
+**Today's Progress:** I installed the NLog Nuget package and learned how to configure NLog to save logging messages to a text file. I learned about the different log levels and how to filter those logs by category and by logging provider.
+
+**Thoughts:** Its cool to log all what happens on your application. I'm just not too sure how or when I will make use of log categories. 
+
+**Link to tweet:** [Day 37 to 39 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1199921054510198784?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 38: November 27, 2019
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 37: November 26, 2019
+
+**Today's Progress:** I learned about logging in debug mode and logging to console. I learned that logging is built into the create web host method. I learned how to log errors to the console using the logger interface from the Microsoft namespace. 
+
+**Thoughts:** I had a couple of issues with this one but I still managed to output some errors to the console window. 
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 36: November 25, 2019
 
 **Today's Progress:** I learned about global exception handling. I learned how to setup the middleware to the request processing pipeline, implement the error controller and create the view for the errors.
 
 **Thoughts:** Recently I've learned how important it is to log errors and review them on a regular basis. It's great that I learn how to log these errors properly.
 
-**Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1198815864293904385?s=20)
+**Link to tweet:** [Day 36 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1198815864293904385?s=20)
 
 **Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
 
@@ -18,7 +44,7 @@
 
 **Thoughts:** Coding needs to take a break sometimes. I find it hard to get time on the weekends to code. I feel like this is the best time to get some coding done but at the same time I also think that I need to unwind on the weekends to prevent burnout.
 
-**Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1198814564512649217?s=20)
+**Link to tweet:** [Day 34 to 35 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1198814564512649217?s=20)
 
 ### Day 33: November 22, 2019
 
@@ -26,7 +52,7 @@
 
 **Thoughts:** I only know of the 404 exception status, I wonder how many there are and how many are common enough that you need to handle them.
 
-**Link to tweet:** [Day 30 to 31 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1197000386340687872?s=20)
+**Link to tweet:** [Day 33 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1197000386340687872?s=20)
 
 **Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
 
