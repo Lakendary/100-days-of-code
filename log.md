@@ -2,6 +2,30 @@
 
 ## Round 1
 
+### Day 43: December 2, 2019
+
+**Today's Progress:** I added an account controller and a register account view. I also updated the navigation bar.
+
+**Thoughts:** Nothing new learned in today, mostly just old stuff that I've learned before.
+
+**Link to tweet:** [Day 43 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1201351312971116545?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 41 to 42: November 30 to December 1, 2019
+
+**Today's Progress:** No coding done on my birthday weekend.
+
+**Thoughts:** I needed a break from coding and I had a lot to do. Also Sunday morning I was a bit hungover. 
+
+### Day 40: November 29, 2019
+
+**Today's Progress:** I learned about identity. I created the identity data tables built in ASP.NET Core.
+
+**Thoughts:** I don't remember much about this lesson because I was interrupted a lot.
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 39: November 28, 2019
 
 **Today's Progress:** I installed the NLog Nuget package and learned how to configure NLog to save logging messages to a text file. I learned about the different log levels and how to filter those logs by category and by logging provider.
@@ -349,3 +373,5 @@ I learned about controllers and how to return JsonResults. Created a view in the
 **Thoughts:** I've learned how to remove origin from a git repo and add a new one. I've learned the differences between the different types of web applications you can create in Visual Studio. Also learned the elements of the ASP.NET Core project file.
 
 **Link to tweet:** [Day 1 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1186130141191258112?s=20)
+
+**Log URL:** [Log](https://github.com/Lakendary/100-days-of-code/blob/master/log.md)
