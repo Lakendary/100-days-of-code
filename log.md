@@ -2,6 +2,30 @@
 
 ## Round 1
 
+### Day 46: December 5, 2019
+
+**Today's Progress:** I learned about password complexity and how to set my own rules for a password. I also learned how to logout a user.
+
+**Thoughts:** Again, a lot of these features are built-in and pretty standard. And the fact that it's customizable makes it even easier. However, it does look complex if you don't know where to start. 
+
+**Link to tweet:** [Day 44 to 46 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1202437404558319616?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 45: December 4, 2019
+
+**Today's Progress:** I learned about the identity user manager and the sign in manager and used to those two configuration services to register a new user.
+
+**Thoughts:** It helps to have authentication built in and make life a whole lot easier. Authentication was a pain in the back side when I learned about it in NodeJS.
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
+### Day 44: December 3, 2019
+
+**Today's Progress:** No progress. I didn't code on my birthday.
+
+**Thoughts:** To be totally honest, I used my birthday as an excuse to sleep late.
+
 ### Day 43: December 2, 2019
 
 **Today's Progress:** I added an account controller and a register account view. I also updated the navigation bar.
