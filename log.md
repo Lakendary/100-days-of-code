@@ -2,6 +2,16 @@
 
 ## Round 1
 
+### Day 47: December 6, 2019
+
+**Today's Progress:** I learned how to log a user in and create a login page. I also learned the difference between a session cookie and a persistent cookie.
+
+**Thoughts:** A lot of this seems simple now, but I just took a look at the old code, especially with regard to logging and file uploads and it all looks very strange. I have no idea how I did it. I am starting to wonder how much of these videos I'll have to rewatch when I finally start creating my own project from scratch. 
+
+**Link to tweet:** [Day 47 - #100DaysOfCode](https://twitter.com/lkn_ant/status/1203030790604566528?s=20)
+
+**Link to work:** [Employee Management](https://github.com/Lakendary/EmployeeManagement)
+
 ### Day 46: December 5, 2019
 
 **Today's Progress:** I learned about password complexity and how to set my own rules for a password. I also learned how to logout a user.
